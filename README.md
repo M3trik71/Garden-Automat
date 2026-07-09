@@ -11,8 +11,6 @@ The system is powered by solar panels and operates autonomously using a 10,000 m
 
 The project combines embedded programming, sensor technology, and renewable energy to create an intelligent and sustainable solution for automated garden monitoring.
 
-![Projektübersicht](teaser3.jpg)
-
 -------------------------------------------------------------------------------------
 
 PinOut:
