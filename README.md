@@ -7,7 +7,7 @@ This project is a self-sufficient garden automation system based on an Arduino N
 
 The system is powered by solar panels and operates autonomously using a 10,000 mAh 3.4 V battery, allowing long-term outdoor operation without external power sources. The collected sensor data can be used to optimize plant care and support efficient water management.
 
-![Projektübersicht](teaser.jpg)
+![Projektübersicht](teaser1.jpg)
 
 The project combines embedded programming, sensor technology, and renewable energy to create an intelligent and sustainable solution for automated garden monitoring.
 
