@@ -15,24 +15,13 @@ The project combines embedded programming, sensor technology, and renewable ener
 
 -------------------------------------------------------------------------------------
 
-
 PinOut:
 
-						       = D13			D12    =
-						       = 3v3			D11    =
-			       	  = REF			D10    =
-						       = A0 			D9     =
-						       = A1 			D8     =
-						       = A2 			D7     =
-Lightsensor  = A3 			D6     =        
-			 	   SDA	 = A4 			D5     =
-					   SCL	 = A5 			D4     =        								
-			 		       = A6 			D3     =	Buzzer						 		
-					   	    = A7 			D2     =	DHT11 Temperatur sensor
-					        = 5V 			GND    =
-					        = RST			RST    =
- 					       = GND			D1 RX  =
-					        = VIN			D0 TX  =
+Lightsensor  = A3     
+SDA	 = A4
+SCL	 = A5    								
+D3     =	Buzzer						 		
+D2     =	DHT11 Temperatur sensor
 
 -------------------------------------------------------------------------------------
 
