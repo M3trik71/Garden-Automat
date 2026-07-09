@@ -1,4 +1,4 @@
-# Garden-Automat
+# Garden Automation System 
 
 ![Projektübersicht](3.jpg)
 
